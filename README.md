@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/badge/Release-v1.0.0-green?style=flat-square)](https://github.com/23tmo/hava-app/releases)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-green?style=flat-square)](https://github.com/23tmo/hava-ios-app/releases)
 
 # Hava iOS App
 
