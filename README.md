@@ -1,6 +1,9 @@
-[![Release](https://img.shields.io/badge/Release-v1.0.0-green?style=flat-square)](https://github.com/23tmo/hava-ios-app/releases)
-
 # Hava iOS App
+
+[![Release](https://img.shields.io/badge/Release-v1.0.0-green?style=flat-square)](https://github.com/23tmo/hava-ios-app/releases)
+![Swift](https://img.shields.io/badge/Swift-5.0-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-Native%20UI-0A84FF?style=flat-square&logo=swift&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-iOS-111111?style=flat-square&logo=apple&logoColor=white)
 
 A friend-to-friend recommendation app that makes it easy to ask for and share trusted recommendations from people you know. Built with SwiftUI to help you discover the best places and services through personal connections.
 
@@ -82,8 +85,8 @@ Hava is a social recommendation platform that focuses on personal connections an
 
 ### Requirements
 
-- Xcode 14.0 or later
-- iOS 15.0+ device or simulator
+- Xcode 16.4 or later
+- iOS 18.5+ device or simulator
 - macOS (for Xcode)
 
 ### Installation
